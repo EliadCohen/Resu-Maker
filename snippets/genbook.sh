@@ -3,7 +3,7 @@
 FILES=$(find src/ -name *.md | sort -n)
 DATE=$(date +'%F')
 BRANCH=$(git branch --show-current)
-FILENAME="Resume-FirstName LastName-$DATE-$BRANCH.pdf"
+FILENAME="Resume-FirstName-LastName-$DATE-$BRANCH.pdf"
 function _combine_md() {
 	mkdir -p output
 	pandoc $FILES -o output/merged-$DATE.md
