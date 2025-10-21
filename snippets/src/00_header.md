@@ -1,16 +1,16 @@
 ---
-title: "You Name Goes Here"
+title: "Eliad Cohen"
+subtitle: "seeking remote or hybrid work in US (No sponsorship required)"
 # This yaml metadata section will be parsed by pandoc
-geometry: margin=1cm
+geometry: "margin=1cm, paper=letterpaper"
+
 output: pdf_document
 ---
-<!-- The "div" will center the table that follows it-->
-
+\vspace{-0.9in}
 <div align="center">
 
-|[youremail@provider.com](mailto:youremail@provider.com) | [www.linkedin.com/in/YOURNAME](http://www.linkedin.com/in/YOURNAME) |
+|[eliadcohen@gmail.com](mailto:eliadcohen@gmail.com) | [www.linkedin.com/in/EliadCohen](http://www.linkedin.com/in/eliadcohen) | [https://github.com/EliadCohen](https://github.com/EliadCohen) |
 |---------------------------|------------------------------------|-----------------------------------------------------------|
-| [https://github.com/YourName](https://github.com/YourName) |
 
 </div>
 
